@@ -1,0 +1,15 @@
+# Секреты и локальные настройки
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vscode/
+.idea/
+
+# Локальные зависимости и результаты сборки
+node_modules/
+.venv/
+__pycache__/
+build/
+dist/
